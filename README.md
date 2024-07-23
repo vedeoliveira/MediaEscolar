@@ -2,7 +2,20 @@
 # ✒️ Média Escolares ✒️
       Pequeno projeto de calculo de médias 
     escolares sendo desenvolvido em Kotlin. 
+    
+ver. 2024.07.22.1
 
+* Foi adicionado a funcionalidade de digitar a quantidade
+  matérias a serem lançadas por aluno.
+  
+* Foi adicionado a funcionalidade de digitar a quantidade
+  de notas a serem lançadas e a média calculada a partir
+  das notas lançadas.
+
+* Agora é permitido cadastrar mais de um aluno.
+  
+* Adicionado um menu com acesso opcções de cadastro,
+  pesquisa e sair.
  
 
  
