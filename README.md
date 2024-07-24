@@ -44,10 +44,14 @@ ver. 2024.07.22.1
 
 
 
-[![Watch the video](https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/95/32/20171186.jpg)](https://www.youtube.com/watch?v=hzIVCUmp5Po&ab_channel=MrSlashBR)
+ [![Watch the video](https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/95/32/20171186.jpg)](https://www.youtube.com/watch?v=hzIVCUmp5Po&ab_channel=MrSlashBR)
 
 * But until you start believing in yoursef
         you ain't gonna have a live.
+
+## 🤝Agradecimentos
+* [José Leandro Campos Pansanato](https://www.linkedin.com/in/jose-leandro-campos-pansanato/), que desde meu interesse inicial no aprendizado mobile,
+tem dado todo apoio e suporte.
 
 ## Referência
 
