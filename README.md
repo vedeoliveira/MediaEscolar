@@ -3,6 +3,18 @@
       Pequeno projeto de calculo de médias 
     escolares sendo desenvolvido em Kotlin. 
     
+ver. 2024.07.24.1
+----------------------------------------------------------
+* Adicionado a Situação (APROVADO, RECUPERAÇÃO, REPROVADO)
+  do Aluno com base em sua média
+
+* Criado um tratamento de erros, para que dados como valores,
+  notas, numero de materias, não sejam vazios ou com conteúdo
+  não condizente com seu tipo.
+  
+* Agora o projeto foi modularizado, para melhor manutenibilidade
+  do projeto
+  
 ver. 2024.07.22.1
 ----------------------------------------------------------
 * Foi adicionado a funcionalidade de digitar a quantidade
@@ -16,18 +28,6 @@ ver. 2024.07.22.1
   
 * Adicionado um menu com acesso opcções de cadastro,
   pesquisa e sair.
- 
-ver. 2024.07.24.1
-----------------------------------------------------------
-* Adicionado a Situação (APROVADO, RECUPERAÇÃO, REPROVADO)
-  do Aluno com base em sua média
-
-* Criado um tratamento de erros, para que dados como valores,
-  notas, numero de materias, não sejam vazios ou com conteúdo
-  não condizente com seu tipo.
-  
-* Agora o projeto foi modularizado, para melhor manutenibilidade
-  do projeto
 
 
 ## Objetivo: 
