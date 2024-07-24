@@ -2,7 +2,20 @@
 # ✒️ Média Escolares ✒️
       Pequeno projeto de calculo de médias 
     escolares sendo desenvolvido em Kotlin. 
+    
+ver. 2024.07.22.1
 
+* Foi adicionado a funcionalidade de digitar a quantidade
+  matérias a serem lançadas por aluno.
+  
+* Foi adicionado a funcionalidade de digitar a quantidade
+  de notas a serem lançadas e a média calculada a partir
+  das notas lançadas.
+
+* Agora é permitido cadastrar mais de um aluno.
+  
+* Adicionado um menu com acesso opcções de cadastro,
+  pesquisa e sair.
  
 
  
@@ -31,10 +44,14 @@
 
 
 
-[![Watch the video](https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/95/32/20171186.jpg)](https://www.youtube.com/watch?v=hzIVCUmp5Po&ab_channel=MrSlashBR)
+ [![Watch the video](https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/95/32/20171186.jpg)](https://www.youtube.com/watch?v=hzIVCUmp5Po&ab_channel=MrSlashBR)
 
 * But until you start believing in yoursef
         you ain't gonna have a live.
+
+## 🤝Agradecimentos
+* [José Leandro Campos Pansanato](https://www.linkedin.com/in/jose-leandro-campos-pansanato/), que desde meu interesse inicial no aprendizado mobile,
+tem dado todo apoio e suporte.
 
 ## Referência
 
